@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: f37aad7f3cd84824eb1f696b1a315add
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bodymat
+    second: {fileID: 2100000, guid: 73110a865ce86db40bbfc18bd6ec3313, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottommat
+    second: {fileID: 2100000, guid: 022cb5bf24eed2143ba318941cd87b14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hairmat
+    second: {fileID: 2100000, guid: 3257e8d2d2534f146b16c51bcc7a36f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoesmat
+    second: {fileID: 2100000, guid: 343c16427a5acc74592b6e1b206fbeb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Topmat
+    second: {fileID: 2100000, guid: c64bbfd6fb734c24da68968baee955a0, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jasper_Body_Diffuse
+    second: {fileID: 2800000, guid: 4e735b977ebabe34cb0d161d233039ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jasper_Body_Gloss
+    second: {fileID: 2800000, guid: 147a85715531ae04d865eab340403e46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jasper_Body_Normal
+    second: {fileID: 2800000, guid: 4e868a0ba28d7c94ba97489f72e1f9ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jasper_Body_Opacity
+    second: {fileID: 2800000, guid: beb38cce1a0215a428ccd0ec25208f27, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jasper_Body_Specular
+    second: {fileID: 2800000, guid: 195deb5452abff342a07f235ddc1d6cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jasper_Bottom_Diffuse
+    second: {fileID: 2800000, guid: 12e10940608507248ba52d11aa25ea09, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jasper_Bottom_Gloss
+    second: {fileID: 2800000, guid: 78cc08c002fac1c4fa2a453650f349c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jasper_Bottom_Normal
+    second: {fileID: 2800000, guid: 49b1abbc2efb2a24b9d3a7e809fe9725, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jasper_Bottom_Opacity
+    second: {fileID: 2800000, guid: 3ca1fe94e28bc014d8d1422cf83d0409, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jasper_Bottom_Specular
+    second: {fileID: 2800000, guid: a8b4ac9615ec7614d9d5ca6479236351, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jasper_Hair_Diffuse
+    second: {fileID: 2800000, guid: d675874b879847449956cfddaca3f1c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jasper_Hair_Gloss
+    second: {fileID: 2800000, guid: 7bd20d023c8b441419da3ca4085472ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jasper_Hair_Normal
+    second: {fileID: 2800000, guid: d535e9af1da6e0744959b0d4900f127e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jasper_Hair_Opacity
+    second: {fileID: 2800000, guid: 0dc894605ba77a74d836875be6e081a3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jasper_Hair_Specular
+    second: {fileID: 2800000, guid: e70bdcf064f04264d9b68280db007c80, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jasper_Shoes_Diffuse
+    second: {fileID: 2800000, guid: 4b33062b9b9ae0947888b568a441a93e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jasper_Shoes_Gloss
+    second: {fileID: 2800000, guid: c35921b7ae80e0341a4c08451008fc5c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jasper_Shoes_Normal
+    second: {fileID: 2800000, guid: 71c1eb6f0cc133042a8694a9b6dcab4e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jasper_Shoes_Opacity
+    second: {fileID: 2800000, guid: 9aaa2e3148333334d8934c12e48fce58, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jasper_Shoes_Specular
+    second: {fileID: 2800000, guid: d997437dc18d8f049abebfdbdb8ceac7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jasper_Top_Diffuse
+    second: {fileID: 2800000, guid: fe76a0fc2e690b641bd435fe956724f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jasper_Top_Gloss
+    second: {fileID: 2800000, guid: f143cea19cb225c49be37d92b348138d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jasper_Top_Normal
+    second: {fileID: 2800000, guid: 594add83c67c17042bad9071d9bb7842, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jasper_Top_Opacity
+    second: {fileID: 2800000, guid: eaf2fa300976b5d4cb76ae6057e2f6a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jasper_Top_Specular
+    second: {fileID: 2800000, guid: dd19d38e716954f458a68ce06332a6b1, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
